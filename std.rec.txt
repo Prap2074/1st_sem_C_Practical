@@ -1,0 +1,6 @@
+Name		Date of Birth		Roll No		Marks.
+Prapanna		2058/05/22		63		99.000000
+Prapanna		2058/05/22		63		99.000000
+Prapanna		2058/05/22		63		99.000000
+Prapanna		2058/05/22		63		99.000000
+Prapanna		2058/05/22		63		99.000000
